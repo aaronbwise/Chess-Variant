@@ -4,6 +4,8 @@
 ## Overview
 This project implements a variant of the traditional chess game. Developed in Python, it utilizes Pygame for a graphical representation, enhancing the player's interactive experience. The goal is to be the first player to capture all of an opponent's pieces of one type (e.g., all knights, all pawns, etc.).
 
+
+
 ## Features
 - **Graphical User Interface**: Utilizes Pygame for a smooth and visually appealing gaming experience.
 - **Chess Mechanics**: Implements standard chess rules with an additional unique winning condition.

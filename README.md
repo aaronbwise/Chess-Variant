@@ -14,7 +14,7 @@ To run this game, you need to have Python and Pygame installed. Follow these ste
 
 1. Clone the repository:
    ```
-   git clone [URL of your repository]
+   git clone https://github.com/aaronbwise/Chess-Variant.git
    ```
 2. Navigate to the cloned directory.
 
